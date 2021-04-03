@@ -22,7 +22,7 @@ In order to become an effective leader, you must first understand what leadershi
 
 ## Presentations
 | Event | Location | Date | Time | Room | Downloads |
-|-------|:---------|:-----|:-----|:-----|:----------|
+|-------| ---------| -----| -----| -----| ----------|
 | Tulsa .NET User Group | Tulsa, OK (Online) | April 8, 2021 | 6:15 pm CDT | N/A | Available After Presentation |
 | Music City Tech 2019 | Nashville, TN | September 6, 2019 | 1:50 pm CDT | 186 | [Slides](https://chadgreen.blob.core.windows.net/slides/How%20to%20be%20a%20Leader%20-%20Music%20City%20Tech.pdf) |
 | Nebraska.Code() 2019 | Lincoln, NE | August 15, 2019 | 10:00 am CDT | Ardis | [Slides](https://chadgreen.blob.core.windows.net/slides/How%20to%20be%20a%20Leader%20-%20Nebraska.Code().pdf) |
