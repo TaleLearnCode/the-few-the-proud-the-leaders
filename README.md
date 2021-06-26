@@ -1,6 +1,6 @@
 # How to be a Leader
 
-![How to be a Leader](https://chadgreen.blob.core.windows.net/slides/HowToBeALeader.jpg)
+![How to be a Leader](https://chadgreen.blob.core.windows.net/slides/How%20to%20be%20a%20Leader.jpg)
 
 ## Abstract
 What is leadership? That term gets thrown around a lot, but what is it really? What do leaders do that makes them leaders? Leadership can be learned and that is good as leaders are in high demand and in short supply. To be an effective leader, you must first understand what leadership is and what traits a leader exhibits. During this session, we will review leadership traits and principles and how you can implement them within your teams. By demonstrating these traits in your daily activities you will earn the respect, confidence, and loyal cooperation of those on your team.
