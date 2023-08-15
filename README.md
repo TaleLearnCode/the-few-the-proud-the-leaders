@@ -1,4 +1,4 @@
-# How to be a Leader
+# Leading with Strength: Applying Marine Corps Leadership Traits to Software Development Teams
 
 ![Leading with Strength: Applying Marine Corps Leadership Traits to Software Development Teams](https://chadgreen.blob.core.windows.net/slides/How%20to%20be%20a%20Leader.jpg)
 
