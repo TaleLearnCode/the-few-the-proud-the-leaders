@@ -1,35 +1,42 @@
-# Leading with Strength: Applying Marine Corps Leadership Traits to Software Development Teams
+# The Few, The Proud, The Leaders: Marine Corps Principles for Software Teams
 
 ![Leading with Strength: Applying Marine Corps Leadership Traits to Software Development Teams](Thumbnail.jpg)
 
 Renamed from *How to be a Leader*
 
 ## Abstract
-What is leadership? That term gets thrown around a lot, but what is it really? What do leaders do that makes them leaders? Leadership can be learned and that is good as leaders are in high demand and in short supply.
+What truly defines leadership? Authentic leadership transcends mere authority; it involves inspiring, guiding, and empowering team members to reach their highest potential. In today’s fast-paced tech world, effective leadership is not just necessary but a competitive advantage. Yet, it remains in short supply.
 
-The parallels between military leadership and leading software development teams are striking, emphasizing the importance of traits such as integrity, decisiveness, and dependability. This conference session aims to bridge the gap between these seemingly disparate worlds by introducing attendees to the 14 Marine Corps Leadership Traits and demonstrating their practical application in software development leadership.
+This session explores the striking parallels between Marine Corps leadership and software development leadership. By examining the 14 Marine Corps Leadership Traits—such as integrity, decisiveness, and dependability—we will uncover their profound relevance to the tech industry.
 
-The session will provide a comprehensive understanding of the fundamental distinctions between a boss or manager and a true leader. Attendees will learn that leadership is not just about authority, but about inspiring, guiding, and empowering team members to achieve their fullest potential. Through real-world examples and interactive exercises, participants will gain actionable insights into fostering a culture of collaboration, innovation, and accountability within their software development teams.
+Attendees will learn what distinguishes a true leader from a mere manager or boss. Through real-world examples and interactive exercises, participants will gain practical tools to foster collaboration, innovation, and accountability. This session will bridge the gap between military leadership and software team dynamics, equipping you to lead confidently and purposefully.
 
-By merging the values and practices of the United States Marine Corps with the nuances of software development leadership, this session equips attendees with a unique toolkit to lead their teams with confidence and purpose. Whether you are a seasoned leader or embarking on your leadership journey, this session promises to inspire and empower you to lead your software development teams to new heights of success.
+Whether you are a seasoned leader or just beginning your leadership journey, join us to discover how the time-tested principles of the Marine Corps can elevate your software development teams to new heights of success. Be inspired and empowered, ready to lead with the strength and integrity of the few, the proud, the leaders.
+
+## Short Abstract
+
+Authentic leadership transcends mere authority and involves the inspiration and empowerment of team members, which is crucial in today’s tech world. This session explores the 14 Marine Corps Leadership Traits—such as integrity, decisiveness, and dependability—and their direct relevance and application to the software development industry. Attendees will learn to distinguish true leaders from managers, gaining practical tools to foster collaboration, innovation, and accountability. Discover how Marine Corps principles can elevate your software teams and enhance your leadership journey, empowering you to lead confidently and purposefully.
 
 ## Elevator Pitch
-Discover true leadership's power in software development! Learn Marine Corps traits that inspire collaboration, innovation, and accountability. Elevate your teams with actionable strategies. From boss to leader – unlock your potential.
+Discover how Marine Corps leadership traits like integrity and decisiveness can elevate your software team’s success. Gain tools to inspire, innovate, and lead effectively.
 
 ## Key Takeaways
-- Familiarity with the 14 Marine Corps Leadership Traits and their applicability to software development leadership.
-- Clear understanding of the differences between a boss/manager and a leader in the context of software development.
-- Practical strategies for fostering a culture of integrity, decisiveness, and dependability within teams.
-- Techniques for inspiring and motivating team members to exceed expectations and deliver outstanding results.
-- Insights into developing the courage and knowledge necessary to navigate challenges and seize opportunities.
+- **Understanding True Leadership**: Learn the fundamental distinctions between a true leader and a mere manager or boss.
+- **Marine Corps Leadership Traits**: Gain insights into the 14 Marine Corps Leadership Traits and their relevance to software development.
+- **Practical Tools for Leadership**: Acquire actionable tools and strategies to foster a culture of collaboration, innovation, and accountability.
+- **Real-World Applications**: Explore real-world examples and interactive exercises to apply Marine Corps principles in a tech environment.
+- **Inspiration and Empowerment**: Be inspired and empowered to confidently and purposefully lead your software development teams.
+- **Personal Growth**: Enhance your leadership journey, whether you are a seasoned leader or just starting.
 
 ## Type
 45/60/75-minute session
 
 ## Tags
 - Leadership
+- Management Skills
 - Professional Growth
 - Soft Skills
+- Team Building
 
 ## Presentations
 | Event | Location | Date | Time | Room | Downloads |
