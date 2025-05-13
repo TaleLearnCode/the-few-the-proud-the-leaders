@@ -1,4 +1,4 @@
-![Presentation Title](Thumbnail.jpg)
+![The Few, The Proud, The Leaders: Marine Corps Principles for Software Teams](thumbnail.jpg)
 
 # The Few, The Proud, The Leaders: Marine Corps Principles for Software Teams
 
