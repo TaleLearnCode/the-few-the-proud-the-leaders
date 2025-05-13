@@ -14,7 +14,7 @@ Attendees will explore what separates a true leader from a mere manager and walk
 
 Join us to discover how the ethos of the Marine Corps can elevate your leadership approach, strengthening software teams with the mindset and effectiveness of **the few, the proud, the leaders**.
 
-![Leadership](https://img.shields.io/badge/Tag-Leadership-blue)![Teamwork](https://img.shields.io/badge/Tag-Teamwork-blue)![Best Practices](https://img.shields.io/badge/Tag-Best%20Practices-blue)![Software Development](https://img.shields.io/badge/Tag-Software%20Development-blue)![Decision Making](https://img.shields.io/badge/Tag-Decision%20Making-blue)
+![Leadership](https://img.shields.io/badge/Tag-Leadership-red) ![Teamwork](https://img.shields.io/badge/Tag-Teamwork-gold) ![Best Practices](https://img.shields.io/badge/Tag-Best%20Practices-red) ![Software Development](https://img.shields.io/badge/Tag-Software%20Development-gold) ![Decision Making](https://img.shields.io/badge/Tag-Decision%20Making-red)
 
 ## Learning Objectives
 - **Authentic leadership principles:** Discover leadership traits that foster accountability, collaboration, and long-term success.
@@ -25,6 +25,7 @@ Join us to discover how the ethos of the Marine Corps can elevate your leadershi
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| Jasper Engines (Private Event) | Jasper, IN | 2025-05-13 | 11:00 EDT | FRED 3 | [Slides](EventMaterials/TheFewTheProdTheLeaders_Jasper.pdf) |
 | [JavaScript & Friends](https://www.javascriptandfriends.com/) | Columbus, OH | 2023-08-25 | 08:15 EDT | Morgan 3 | [Slides](EventMaterials/LeadingWithStrength_JavaScriptAndFriends.pdf) |
 | Tulsa .NET User Group | Tulsa, OK (Online) | 2021-04-08 | 18:15 CDT | N/A | Unavailable |
 | Music City Tech 2019 | Nashville, TN | 2019-09-06 | 13:50 CDT | 186 | [Slides](EventMaterials/HowToBeALeader_MusicCityTech.pdf) |
@@ -36,4 +37,5 @@ Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentat
 
 ## Resources
 
-There are no additional resources for this presentation.
+- [Leading Marines](https://www.marines.mil/Portals/1/Publications/MCWP%206-10%20(SECURED).pdf?ver=UZxN57-WIUm8vDU5KXik2g%3d%3d)
+- [RP - Principles of Marine Corps Leadership](https://www.tecom.marines.mil/Portals/120/Docs/Student%20Materials/CREST%20Manual/RP0103.pdf)
